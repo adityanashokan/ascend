@@ -1,0 +1,11 @@
+#BACKEND
+backend/target/
+backend/.quarkus/
+
+#FRONTEND
+frontend/node_modules/
+frontend/dist/
+
+#GENERAL
+.env
+*.class
